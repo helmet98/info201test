@@ -2,7 +2,7 @@
 
 let's say I make some changes here.
 
-** BOLD TEXT **
+**BOLD TEXT**
 
 A list:
 - item 1
